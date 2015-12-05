@@ -28,7 +28,7 @@ was quick and usage is limited, but I have found it to be
 very useful for my needs.
 
 Now I have a batch file that I can run from my desktop and 
-have the information within 5 seconds, opposed to the 
+have the information within 2 seconds, opposed to the 
 dreadful 45+ seconds that it took before.
 
 ============================================================
